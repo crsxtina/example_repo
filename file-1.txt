@@ -10,4 +10,4 @@ Third
 END
 
 file commit 1.1
-
+file commit 1.2
